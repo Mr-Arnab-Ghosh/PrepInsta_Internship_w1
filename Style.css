@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Grape+Nuts&family=Great+Vibes&family=Satisfy&display=swap');
+.hi{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+.img{
+    width: 300px;
+    height: auto;
+    border: 10px solid snow;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+.book{
+    
+    font-size: large;
+    
+} 
+.books{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+.skill{
+    font-size: large;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+.hobby{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-style: normal;
+
+
+}
+body{
+    background-color:  rgb(251, 133, 86);
+}
